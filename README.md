@@ -74,7 +74,6 @@ cd ../frontend
 npm run dev
 Access the application:
 
-Open your browser and go to http://localhost:5173/
 
 Usage
 
@@ -84,13 +83,6 @@ Switch between light and dark mode in the settings section.
 Log out when done.
 Screenshots image image image image image image image image image image image
 
-Contributing
-
-Contributions are welcome! If you find bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
-
-License
-
-This project is licensed under the MIT License.
 
 Contact
 
